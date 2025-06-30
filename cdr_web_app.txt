@@ -1,0 +1,7 @@
+cdr_web_app/
+├── app.py            <-- Streamlit main app
+├── analysis.py       <-- Your existing analysis code
+├── mongo_utils.py    <-- Code to connect/upload to MongoDB
+├── data.json         <-- Sample data (optional)
+├── app.py               ✅ Your Streamlit frontend
+├── cdr_analyzer.py      ✅ Your Python class
